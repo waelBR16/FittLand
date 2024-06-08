@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84350242028",
+    "project_id": "fittland0",
+    "storage_bucket": "fittland0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84350242028:android:30e91f2b36fe8435de29c9",
+        "android_client_info": {
+          "package_name": "com.example.fitland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1Pri5fri949DrnjeQ1tgRyrydFI_PtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
